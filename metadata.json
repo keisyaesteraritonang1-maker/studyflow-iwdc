@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Smart Learning & Grade Prediction Platform for University Students. Turn lecture materials into summaries and quizzes, and plan your course grades accurately.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

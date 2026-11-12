@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --color-brand-primary: #8EB8E8;
+  --color-brand-secondary: #C5B8EA;
+  --color-brand-accent: #A99AE8;
+  --color-brand-navy: #263449;
+  --color-brand-canvas: #F8FAFC;
+  --color-brand-success: #A8D5BA;
+}
+
+body {
+  font-family: var(--font-sans);
+}
